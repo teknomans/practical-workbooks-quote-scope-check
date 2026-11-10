@@ -58,6 +58,8 @@ The free tool stands alone. Practical Workbooks also sells separate tools for us
 - [Cleaning Quote & Actual Profit Toolkit](https://payhip.com/b/3njIk?utm_source=github&utm_medium=readme&utm_campaign=scope_repository_v14): $12 manual quote-versus-job-results toolkit.
 - [SOP Drafting Kit](https://payhip.com/b/wgZ4X?utm_source=github&utm_medium=readme&utm_campaign=scope_repository_v14): $9 blank templates, fictional example and review checklist.
 
+- [Cleaning Quote & Client Admin Bundle](https://payhip.com/b/c5SOK?utm_source=github&utm_medium=readme&utm_campaign=cleaning_bundle_v26): $19 one-time for the existing cleaning toolkit and client admin pack ($24 separately). Same products as the standalone listings; do not buy twice if you already own both.
+
 These are our own products. Check each listing for current price, files and compatibility. No purchase is required to use this free checklist.
 
 ## Use permission
