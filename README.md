@@ -34,6 +34,22 @@ Desktop Chromium UI and TXT download were checked with fictional examples during
 
 This is a planning reminder, not a contract, legal review or readiness certification.
 
+## Two fictional examples to adapt
+
+These are writing prompts, not recommended prices or ready-made contract terms. Agree the details with the customer yourself.
+
+| Section | Video editing example | Cleaning example |
+| --- | --- | --- |
+| Deliverables | Two 30-second vertical edits from the supplied clips, delivered as MP4 files. | One visit covering the listed kitchen and bathroom tasks. |
+| Exclusions | Filming, new music licenses and extra formats are excluded. | Exterior windows and oven interiors are excluded. |
+| Assumptions | The customer supplies usable footage and cleared brand assets. | The customer provides access at the agreed time; condition is as described. |
+| Approval owner | One named customer contact sends consolidated feedback. | One named customer contact confirms the task list. |
+| Changes | Record the included revision round and how extra changes will be discussed. | Record how added rooms or tasks will be discussed before work starts. |
+| Timing | Record asset handoff, feedback and delivery dates separately. | Record visit date, arrival window and any access constraints. |
+| Price/payment | Record your own agreed price, due dates and payment method. | Record your own agreed visit price, due date and payment method. |
+
+**Try a missing-detail check:** leave Timing blank, build the summary and inspect the missing-section list. Then enter "Friday" and rebuild. The tool will detect text, but it cannot tell whether "Friday" is a clear or workable agreement. Export the notes before closing.
+
 ## Optional related downloads
 
 The free tool stands alone. Practical Workbooks also sells separate tools for users who need more structure:
