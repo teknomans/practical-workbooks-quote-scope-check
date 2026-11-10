@@ -4,7 +4,7 @@ A free, local HTML checklist for noticing missing details before you send a serv
 
 ## Try it without an email or account
 
-1. On this repository, choose **Code → Download ZIP**.
+1. [Download the ready-to-use pilot ZIP](https://github.com/teknomans/practical-workbooks-quote-scope-check/releases/download/v0.1.0-pilot/quote-scope-check-v01.zip), or choose **Code → Download ZIP** for the full repository.
 2. Extract the ZIP on your computer.
 3. Open **quote-scope-check.html** in a current desktop browser.
 4. Enter fictional or redacted notes, then choose **Build review summary**.
