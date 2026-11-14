@@ -50,6 +50,10 @@ These are writing prompts, not recommended prices or ready-made contract terms. 
 
 **Try a missing-detail check:** leave Timing blank, build the summary and inspect the missing-section list. Then enter "Friday" and rebuild. The tool will detect text, but it cannot tell whether "Friday" is a clear or workable agreement. Export the notes before closing.
 
+## Free SOP handover guide
+
+Handing instructions to someone else? [Copy the seven-prompt SOP handover checklist](guides/sop-handover-checklist.md), including a fictional review example. No email or purchase required. This is a planning prompt, not a safety or compliance certification.
+
 ## Optional related downloads
 
 The free tool stands alone. Practical Workbooks also sells separate tools for users who need more structure:
