@@ -2,6 +2,10 @@
 
 A free, local HTML checklist for noticing missing details before you send a service quote. Original tool from Practical Workbooks, created with AI assistance.
 
+## For cleaning-business owners
+
+[Use the free cleaning quote checklist](guides/cleaning-business-quote-checklist.md) to record included tasks, exclusions, time, fees and changes before a visit, then compare your estimate with recorded job costs. Includes a fictional extra-hour example and a copyable blank review. No purchase or email required.
+
 ## Try it without an email or account
 
 1. [Download the ready-to-use pilot ZIP](https://github.com/teknomans/practical-workbooks-quote-scope-check/releases/download/v0.1.0-pilot/quote-scope-check-v01.zip), or choose **Code → Download ZIP** for the full repository.
